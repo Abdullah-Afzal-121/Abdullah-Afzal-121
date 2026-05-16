@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-afzal/">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-12b031361/">LinkedIn</a> • 
   <a href="https://github.com/Abdullah-Afzal-121">GitHub</a> •  
   <a href="mailto:abdullah.afzal1006@gmail.com">Email</a> 
 </p>
@@ -148,7 +148,7 @@ Dedicated to bridging the gap between **advanced AI research and practical, scal
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdullah-afzal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-abdullah-12b031361/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Abdullah-Afzal-121"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:abdullah.afzal1006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
